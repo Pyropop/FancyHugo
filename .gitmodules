@@ -1,0 +1,3 @@
+[submodule "themes/bootHug"]
+	path = themes/bootHug
+	url = https://github.com/spech66/bootstrap-bp-hugo-theme.git
